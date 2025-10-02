@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login_examensim</string>
+
+    <string name="input_name">Nombre</string>
+    <string name="input_apPaterno">Apellido Paterno</string>
+    <string name="input_date">Fecha de Nacimiento</string>
+    <string name="input_number">Número</string>
+</resources>
